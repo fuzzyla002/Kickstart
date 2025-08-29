@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OVwtf6TyedI=",
+  "dgSpecHash": "1u95giYIrNw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Kickstart.Entities\\Kickstart.Entities.csproj",
+  "projectFilePath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Entities\\Kickstart.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FadzilahWhyte\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\FadzilahWhyte\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Kickstart.Entities\\Kickstart.Entities.csproj": {}
+    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Entities\\Kickstart.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Kickstart.Entities\\Kickstart.Entities.csproj": {
+    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Entities\\Kickstart.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Kickstart.Entities\\Kickstart.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Entities\\Kickstart.Entities.csproj",
         "projectName": "Kickstart.Entities",
-        "projectPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Kickstart.Entities\\Kickstart.Entities.csproj",
+        "projectPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Entities\\Kickstart.Entities.csproj",
         "packagesPath": "C:\\Users\\FadzilahWhyte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Kickstart.Entities\\obj\\",
+        "outputPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FadzilahWhyte\\AppData\\Roaming\\NuGet\\NuGet.Config"
