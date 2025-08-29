@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kickstart.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9f27391666ea67e0ce3e43c0c4784161b43d72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+608e076e6691c97244f69575f850003457030c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kickstart.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kickstart.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

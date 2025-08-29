@@ -9,19 +9,31 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kickstart.Web
 build_property.RootNamespace = Kickstart.Web
-build_property.ProjectDir = C:\Users\FadzilahWhyte\KenticoCMS\Kickstart\src\Kickstart.Web\
+build_property.ProjectDir = C:\Users\FadzilahWhyte\KenticoCMS\Kickstart\src\Kickstart.web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\FadzilahWhyte\KenticoCMS\Kickstart\src\Kickstart.Web
+build_property.MSBuildProjectDirectory = C:\Users\FadzilahWhyte\KenticoCMS\Kickstart\src\Kickstart.web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/FadzilahWhyte/KenticoCMS/Kickstart/src/Kickstart.Web/Features/LandingPages/LandingPagePageTemplate.cshtml]
+[C:/Users/FadzilahWhyte/KenticoCMS/Kickstart/src/Kickstart.web/Features/LandingPages/LandingPagePageTemplate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTGFuZGluZ1BhZ2VzXExhbmRpbmdQYWdlUGFnZVRlbXBsYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FadzilahWhyte/KenticoCMS/Kickstart/src/Kickstart.Web/_ViewImports.cshtml]
+[C:/Users/FadzilahWhyte/KenticoCMS/Kickstart/src/Kickstart.web/Features/Navigation/NavigationMenuViewComponent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTmF2aWdhdGlvblxOYXZpZ2F0aW9uTWVudVZpZXdDb21wb25lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FadzilahWhyte/KenticoCMS/Kickstart/src/Kickstart.web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FadzilahWhyte/KenticoCMS/Kickstart/src/Kickstart.web/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FadzilahWhyte/KenticoCMS/Kickstart/src/Kickstart.web/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

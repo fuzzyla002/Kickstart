@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Web\\Kickstart.Web.csproj": {}
+    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.web\\Kickstart.Web.csproj": {}
   },
   "projects": {
     "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Entities\\Kickstart.Entities.csproj": {
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Web\\Kickstart.Web.csproj": {
+    "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.web\\Kickstart.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Web\\Kickstart.Web.csproj",
+        "projectUniqueName": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.web\\Kickstart.Web.csproj",
         "projectName": "Kickstart.Web",
-        "projectPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Web\\Kickstart.Web.csproj",
+        "projectPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.web\\Kickstart.Web.csproj",
         "packagesPath": "C:\\Users\\FadzilahWhyte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.Web\\obj\\",
+        "outputPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\Kickstart\\src\\Kickstart.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FadzilahWhyte\\AppData\\Roaming\\NuGet\\NuGet.Config"
