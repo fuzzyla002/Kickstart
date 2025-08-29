@@ -1,0 +1,12 @@
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\bin\Debug\net8.0\Kickstart.Entities.deps.json
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\bin\Debug\net8.0\Kickstart.Entities.dll
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\bin\Debug\net8.0\Kickstart.Entities.pdb
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\Kickstart.Entities.csproj.AssemblyReference.cache
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\Kickstart.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\Kickstart.Entities.AssemblyInfoInputs.cache
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\Kickstart.Entities.AssemblyInfo.cs
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\Kickstart.Entities.csproj.CoreCompileInputs.cache
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\Kickstart.Entities.dll
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\refint\Kickstart.Entities.dll
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\Kickstart.Entities.pdb
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Kickstart.Entities\obj\Debug\net8.0\ref\Kickstart.Entities.dll
